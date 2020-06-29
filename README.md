@@ -1,2 +1,3 @@
 # CityPollution
-Plotly Dash Analytical Project on City pollution 
+Analytical Project on City pollution 
+Developed Using Python Plotly and Dash library
